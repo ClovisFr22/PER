@@ -7,3 +7,11 @@ https://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/fda-adverse-e
 
 médicaments pris - analyse biologique - mortalité 
 https://wwwn.cdc.gov/nchs/nhanes/
+
+
+prédire la gravité lors de la prise d'un médicament 
+causalité médicament -> effet indésirable ou résultat analyse bio selon dataset 
+
+exploration de causal AI : si jamais dataset pas propice, décider si on garde dataset mais on change de thème, ou on veut faire causal et on change de domaine d'application 
+
+format démonstrateur : on rentre des infos à la main ? on obtient les explications ? prédiction ou causalité
