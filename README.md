@@ -15,3 +15,5 @@ causalité médicament -> effet indésirable ou résultat analyse bio selon data
 exploration de causal AI : si jamais dataset pas propice, décider si on garde dataset mais on change de thème, ou on veut faire causal et on change de domaine d'application 
 
 format démonstrateur : on rentre des infos à la main ? on obtient les explications ? prédiction ou causalité
+
+DOW doc : https://docs.google.com/document/d/1edOsmJDrrjZJfY9v7s_93D4wl1Ei509_7r1NCm10Iag/edit?usp=sharing
