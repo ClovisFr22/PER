@@ -29,10 +29,5 @@ definir foret causale et dire pourquoi cest couteux (nb de variables, nb data…
 planning précis et réaliste
 bibliographie : compter les pistes meme si pas encore lu
 
-Répartition DOW :
-1/2/3 : Maeva
-4 : à deux, maeva fait data, clovis causal
-5/6/7 : Clovis
-8 : ?
-9 : à voir à deux
-10 : chacun complète sa biblio
+lien ppt soutenance : 
+https://docs.google.com/presentation/d/1WG9M2L-f1eyGDic48RLmBlNslNIepMaHAcAU3cdHZqc/edit?usp=sharing 
