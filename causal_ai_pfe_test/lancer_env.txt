@@ -1,0 +1,9 @@
+py -3.11 -m venv .venv
+
+Activation env : 
+.\.venv\Scripts\Activate.ps1
+
+Mettre à jour les requirements : 
+python -m pip freeze > requirements.txt
+
+Quitter l'env : deactivate

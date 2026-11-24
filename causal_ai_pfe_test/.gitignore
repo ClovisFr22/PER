@@ -1,0 +1,35 @@
+
+# ========================================
+# CAUSAL AI PFE - Git Ignore
+# ========================================
+
+# Environnements virtuels
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Notebooks Jupyter
+.ipynb_checkpoints/
+
+# Variables d'environnement et secrets
+.env
+.env.*
+
+# Datasets locaux
+data/*.csv
+data/*.parquet
+data/*.xlsx
+
+# Modèles entraînés
+models/
+
+# Résultats générés
+outputs/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
