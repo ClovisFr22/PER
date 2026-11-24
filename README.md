@@ -29,4 +29,6 @@ definir foret causale et dire pourquoi cest couteux (nb de variables, nb data…
 planning précis et réaliste
 bibliographie : compter les pistes meme si pas encore lu
 
+lien ppt soutenance : 
+https://docs.google.com/presentation/d/1WG9M2L-f1eyGDic48RLmBlNslNIepMaHAcAU3cdHZqc/edit?usp=sharing 
 Cours causal ai pour les nuls : https://chatgpt.com/s/t_6b054ec157b08191b2afa8bb5a9fbcb9
